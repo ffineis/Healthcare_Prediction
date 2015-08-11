@@ -2,7 +2,7 @@
 
 In February of this year, I took a programming test for a Chicago analytics company, Civics Analytics. It went poorly. The test was to supply probabilities for the rows in the ACS dataset with missing healthcare coverage information (i.e. `hicov` was NA).
 
-
+###Directories:
 ####data
 1. **HealcareData1.txt**: ACS data used in the subsequent analysis. Alternatively, you can download from https://github.com/kjy/Healthcare/blob/master/HealthcareData1.txt
 2. **frank_clean_data.txt**: processed version of HealthcareData1.txt.
