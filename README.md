@@ -1,6 +1,6 @@
 #Healthcare coverage prediction from 2009-2011 American Community Survey data
 
-In February of this year, I took a programming test for a Chicago analytics company, Civics Analytics. Uhhhh, it went poorly. The test was to supply probabilities for the rows in the ACS dataset with missing healthcare coverage information (i.e. `hicov` was NA). Many months later, I'm giving it a second shot!
+In February of this year, I took a programming test for a Chicago analytics company. It went poorly. The goal of the programming portion of the test was to supply probabilities of having healthcare coverage for the rows in the ACS dataset with missing coverage information (i.e. where `hicov` was NA). Several months later, I gave it a second shot!
 
 ###Directories:
 ####data
